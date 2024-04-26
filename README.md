@@ -8,7 +8,7 @@ This project aims to replicate the design and functionality of the Facebook logi
 
 This project is a responsive clone of the Facebook login page, meticulously crafted to replicate the original design while ensuring adaptability across various devices. It harnesses the power of React for dynamic user interfaces, Vite for rapid development, and Tailwind CSS for a utility-first styling approach. The result is a seamless login experience that effortlessly transitions between desktop and mobile environments.
 
-## Features
+## Highlights
 
 - **Responsive Design**: Seamlessly adapts to different screen sizes, providing an optimal user experience on both desktop and mobile devices.
   
